@@ -1,0 +1,8 @@
+name: image-pipeline
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+prefix: /opt/anaconda3/envs/image-pipeline
